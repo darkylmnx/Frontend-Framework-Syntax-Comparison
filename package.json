@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "site:dev": "vuepress dev site",
+    "site:build": "vuepress build site"
+  },
   "devDependencies": {
     "node-sass": "^4.9.0",
     "sass-loader": "^7.0.1"
