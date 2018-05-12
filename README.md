@@ -2,17 +2,17 @@
 
 ## What is the goal of this project ?
 
-Are you tired of frontend frameworks war ? Because we are !
-The goal of this project is to compare without any opinion syntax and usage between major frontend frameworks.
+Are you lost when it comes to choosing a frontend framework or view library ?
+You're on the right project spot then.
+The Hikaku project helps you to objectively compare frontend frameworks / view libraries based on their syntax and usage.
+You will also have some ready-to-use code snippets for basic tasks.
 
-This project is inspired by https://vanilla-js.com which compares **vanilla JS** to **jQuery**.
+This project is inspired by https://vanilla-js.com and http://youmightnotneedjquery.com which compares **vanilla JS** to **jQuery**.
 
-## What framewoks will you compare ?
+## What framewoks do we compare ?
 
-We are going to compare Vue and React for the moment but you are welcome to contribute for other component-based frameworks / libraries.
+We are going to compare Vue and React for the moment but, you are welcome to contribute and add other component-based frameworks / libraries.
 
-## How can you compare ?
+## How to compare ?
 
-We are going to launch a static page written in markdown where we show exactly the same code writtent in React and Vue.
-
-That's it for now.
+Website comming soon ! Stay tunned.
